@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://github.com/Monkey-D-Eric?tab=repositories](https://github.com/Monkey-D-Eric?tab=repositories)
 
-- 📫 How to reach me **ntderic6789@gmail.com**
+- 📫 How to reach me **ntderic6789@gmail.com - +84902560883**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
