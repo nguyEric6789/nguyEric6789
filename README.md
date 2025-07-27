@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Eric</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Dat(Eric)</h1>
 <h3 align="center">A passionate embedded software developer from Viet Nam</h3>
 
 - 🔭 I’m currently working on [https://github.com/Monkey-D-Eric?tab=repositories](https://github.com/Monkey-D-Eric?tab=repositories)
 
-- 📫 How to reach me **ntderic6789@gmail.com - +84902560883**
+- 📫 How to reach me **ntderic6789@gmail.com / +84902560883**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
